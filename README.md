@@ -141,6 +141,5 @@ black src/ tests/
 
 ## 联系方式
 
-- 作者: [Your Name]
-- 邮箱: [your.email@example.com]
-- GitHub: [@your-username](https://github.com/your-username) 
+- 作者: [Potato6979]
+- 邮箱: [6979potato@gmail.com]
